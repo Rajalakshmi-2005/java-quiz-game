@@ -1,0 +1,10 @@
+Which keyword creates an object in Java?|class|new|static|void|2
+Which data type stores whole numbers?|String|boolean|int|double|3
+What does JVM stand for?|Java Virtual Machine|Java Variable Method|Joint Virtual Memory|Java Visual Mode|1
+Which symbol starts a single-line comment?|#|//|--|/*|2
+Which class gives a resizable list?|Scanner|Math|ArrayList|String|3
+Which keyword is used to inherit a class?|implements|extends|inherits|super|2
+What is the default value of an int field?|null|1|0|undefined|3
+Which method is the starting point of a Java program?|start()|run()|main()|init()|3
+Which loop always runs at least once?|for|while|do-while|for-each|3
+Which keyword stops a loop immediately?|stop|break|exit|return|2
